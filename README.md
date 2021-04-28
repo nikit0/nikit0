@@ -51,6 +51,6 @@
 <!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
 
 <!-- <p align="center"> -->
-<a href="https://www.instagram.com/thicsouzaa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thicsouzaa-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/nikit0fps/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nikit0fps-blue?style=flat-square&logo=instagram"></a>
 <a href="thicsouzaa@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-thicsouzaa@outlook.com-blue?style=flat-square&logo=gmail"></a>
 <!-- </p> -->
