@@ -41,8 +41,8 @@
 <h3> ⚙️  GitHub Analytics </h3>
   
 <a href="https://github.com/nikit0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikit0&theme=react&show_icons=true" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikit0&theme=react&layout=compact" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikit0&theme=react&show_icons=true" style"max-width: 100%;" />
   <img height="300em" src="https://metrics.lecoq.io/nikit0" alt="Github Metrics" style"max-width: 100%;>
 </a>
 
