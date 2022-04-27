@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; I studied Computer Science at <a href="http://unimep.edu.br">UNIMEP</a>.
-<!-- - 💼 &nbsp; I’m currently working on <a href="https://cidadealta.gg">Cidade Alta</a>. -->
+- 💼 &nbsp; I’m currently working on <a href="">Loading</a>.
 - 🌱 &nbsp; Learning more about 3D, React, C# and FiveM Development.
 - ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
 
@@ -48,9 +48,11 @@
 
 <br/>
 
+#
+
 <!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
 
-<!-- <p align="center"> -->
+<h4 align="center">
 <a href="https://www.instagram.com/nikit0fps/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nikit0fps-blue?style=flat-square&logo=instagram"></a>
 <a href="thicsouzaa@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-thicsouzaa@outlook.com-blue?style=flat-square&logo=gmail"></a>
-<!-- </p> -->
+</h4>
