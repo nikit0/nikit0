@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; I studied Computer Science at <a href="http://unimep.edu.br">UNIMEP</a>.
-- 💼 &nbsp; I’m currently working on <a href="https://cidadealta.gg">Cidade Alta</a>.
+<!-- - 💼 &nbsp; I’m currently working on <a href="https://cidadealta.gg">Cidade Alta</a>. -->
 - 🌱 &nbsp; Learning more about 3D, React, C# and FiveM Development.
 - ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
 
