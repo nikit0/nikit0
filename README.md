@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; I studied Computer Science at <a href="http://unimep.edu.br">UNIMEP</a>.
+- 🎓 &nbsp; I studied Analysis and Systems Development at <a href="https://portal.anhembi.br">Anhembi Morumbi</a>.
 - 💼 &nbsp; I’m currently working on <a href="">Loading</a>.
 - 🌱 &nbsp; Learning more about 3D, React, C# and FiveM Development.
 - ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
