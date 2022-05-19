@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; I studied Analysis and Systems Development at <a href="https://portal.anhembi.br">Anhembi Morumbi</a>.
-- 💼 &nbsp; I’m currently working on <a href="">Loading</a>.
+- 🎓 &nbsp; I studying Analysis and Systems Development at <a href="https://portal.anhembi.br">Anhembi Morumbi</a>.
+- 💼 &nbsp; I’m currently working on <a href="https://linkr.bio/santagroup.gg">Santa Group</a>.
 - 🌱 &nbsp; Learning more about 3D, React, C# and FiveM Development.
 - ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
 
