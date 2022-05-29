@@ -9,7 +9,6 @@
 - ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 💻 &nbsp;
   ![3DS Max](https://img.shields.io/badge/-3DS%20Max-333333?style=flat&logo=sketchup&logoColor=01a8a8)
