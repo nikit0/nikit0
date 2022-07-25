@@ -10,10 +10,6 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![3DS Max](https://img.shields.io/badge/-3DS%20Max-333333?style=flat&logo=sketchup&logoColor=01a8a8)
-  ![SketchUp](https://img.shields.io/badge/-SketchUp-333333?style=flat&logo=sketchup&logoColor=e72b2d)
-  ![ZModeler3](https://img.shields.io/badge/-ZModeler3-333333?style=flat&logo=sketchup&logoColor=022d9b)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -26,14 +22,17 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio Community](https://img.shields.io/badge/-Visual%20Studio%20Community-333333?style=flat&logo=visual-studio-code&logoColor=7d3bbc)
-- 🖥 &nbsp;
+- 💻 &nbsp;
+  ![3DS Max](https://img.shields.io/badge/-3DS%20Max-333333?style=flat&logo=sketchup&logoColor=01a8a8)
+  ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=ea7600)
+  ![FiveM](https://img.shields.io/badge/-FiveM-333333?style=flat&logo=fivem&logoColor=ea7600)
+- 📌 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
-  ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Community](https://img.shields.io/badge/-Visual%20Studio%20Community-333333?style=flat&logo=visual-studio-code&logoColor=7d3bbc)
 
 <br/>
 
