@@ -23,13 +23,17 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)&nbsp;
+
+  ### - 🔧 &nbsp;Editors
+  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![VS Community](https://img.shields.io/badge/-Visual%20Studio%20Community-333333?style=flat&logo=visual-studio-code&logoColor=7d3bbc)&nbsp;
  
-### - 💻 &nbsp;3D
+  ### - 💻 &nbsp;3D
   ![3DS Max](https://img.shields.io/badge/-3DS%20Max-333333?style=flat&logo=sketchup&logoColor=01a8a8)&nbsp;
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=ea7600)&nbsp;
   ![Zmodeler](https://img.shields.io/badge/-Zmodeler-333333?style=flat&logo=sketchup&logoColor=1572B6)&nbsp;
   
- ### - 📌 &nbsp;Others
+  ### - 📌 &nbsp;Others
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)&nbsp;
