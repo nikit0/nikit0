@@ -27,7 +27,7 @@
 ### - 💻 &nbsp;3D
   ![3DS Max](https://img.shields.io/badge/-3DS%20Max-333333?style=flat&logo=sketchup&logoColor=01a8a8)&nbsp;
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=ea7600)&nbsp;
-  ![Zmodeler](https://img.shields.io/badge/-Zmodeler-333333?style=flat&logo=zmodeler)&nbsp;
+  ![Zmodeler](https://img.shields.io/badge/-Zmodeler-333333?style=flat&logo=sketchup&logoColor=1572B6)&nbsp;
   
  ### - 📌 &nbsp;Others
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
