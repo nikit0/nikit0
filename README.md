@@ -17,6 +17,11 @@
 
   ### - 🛢 &nbsp;Database
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
+  
+  ### - ☁️ &nbsp;Cloud
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)&nbsp;
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
+  ![Cloud Flare](https://img.shields.io/badge/-Cloud%20Flare-333333?style=flat&logo=cloudflare)&nbsp;
 
   ### - ⚙️ &nbsp;Tools
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
