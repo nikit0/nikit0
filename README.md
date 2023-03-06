@@ -17,6 +17,9 @@
 
   ### - 🛢 &nbsp;Database
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
+  ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)&nbsp;
   
   ### - ☁️ &nbsp;Cloud
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)&nbsp;
