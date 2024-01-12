@@ -28,7 +28,7 @@
   
   ### - ☁️ &nbsp;Cloud
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)&nbsp;
-  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)&nbsp;
   ![Cloud Flare](https://img.shields.io/badge/-Cloud%20Flare-333333?style=flat&logo=cloudflare)&nbsp;
 
   ### - ⚙️ &nbsp;Tools
@@ -48,8 +48,8 @@
   ![Zmodeler](https://img.shields.io/badge/-Zmodeler-333333?style=flat&logo=sketchup&logoColor=1572B6)&nbsp;
   
   ### - 📌 &nbsp;Others
+  ![Substance](https://img.shields.io/badge/-Substance-333333?style=flat&logo=adobe&logoColor=ff0000)&nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
   ![FiveM](https://img.shields.io/badge/-FiveM-333333?style=flat&logo=fivem&logoColor=ea7600)&nbsp;
