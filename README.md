@@ -23,6 +23,7 @@
   ### - 🛢 &nbsp;Database
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
   ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
   ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)&nbsp;
   
@@ -34,6 +35,7 @@
   ### - ⚙️ &nbsp;Tools
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
   ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=azure-devops&logoColor=007ACC)&nbsp;
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)&nbsp;
 
