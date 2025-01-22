@@ -16,9 +16,9 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 
   ### - 🧮 &nbsp;Frameworks / Libs
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=v&logoColor=4bc425)&nbsp;
-  ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)&nbsp;
+  ![React](https://badges.aleen42.com/src/react.svg)&nbsp;
+  ![Vue](https://badges.aleen42.com/src/vue.svg)&nbsp;
+  ![Svelte](https://badges.aleen42.com/src/svelte.svg)&nbsp;
 
   ### - 🛢 &nbsp;Database
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
@@ -39,8 +39,8 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)&nbsp;
 
   ### - 🔧 &nbsp;IDE
-  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![VS Community](https://img.shields.io/badge/-Visual%20Studio%20Community-333333?style=flat&logo=visual-studio-code&logoColor=7d3bbc)&nbsp;
+  ![VS Code](https://badges.aleen42.com/src/visual_studio_code.svg)&nbsp;
+  ![VS Community](https://badges.aleen42.com/src/visual_studio.svg)&nbsp;
  
   ### - 💻 &nbsp;3D
   ![3DS Max](https://img.shields.io/badge/-3DS%20Max-333333?style=flat&logo=sketchup&logoColor=01a8a8)&nbsp;
@@ -49,11 +49,9 @@
   ![Zmodeler](https://img.shields.io/badge/-Zmodeler-333333?style=flat&logo=sketchup&logoColor=1572B6)&nbsp;
   
   ### - 📌 &nbsp;Others
-  ![Substance](https://img.shields.io/badge/-Substance-333333?style=flat&logo=adobe&logoColor=ff0000)&nbsp;
-  ![Sampler](https://img.shields.io/badge/-Sampler-333333?style=flat&logo=adobe&logoColor=ff0000)&nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-  ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)&nbsp;
-  ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects)&nbsp;
+  ![Photoshop](https://badges.aleen42.com/src/photoshop.svg)&nbsp;
+  ![Premiere](https://badges.aleen42.com/src/premiere.svg)&nbsp;
+  ![After Effects](https://badges.aleen42.com/src/after_effects.svg)&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
   ![FiveM](https://img.shields.io/badge/-FiveM-333333?style=flat&logo=fivem&logoColor=ea7600)&nbsp;
 </div>
