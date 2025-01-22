@@ -10,9 +10,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)&nbsp;
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=4bc425)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=2C2D72)&nbsp;
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=sharp&logoColor=99CC00)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 
   ### - 🧮 &nbsp;Frameworks / Libs
@@ -22,22 +22,21 @@
 
   ### - 🛢 &nbsp;Database
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
-  ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)&nbsp;
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb&logoColor=003545)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
-  ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)&nbsp;
+  ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase&logoColor=DD2C00)&nbsp;
   
   ### - ☁️ &nbsp;Cloud
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)&nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)&nbsp;
-  ![Cloud Flare](https://img.shields.io/badge/-Cloud%20Flare-333333?style=flat&logo=cloudflare)&nbsp;
+  ![CloudFlare](https://img.shields.io/badge/-CloudFlare-333333?style=flat&logo=cloudflare)&nbsp;
 
   ### - ⚙️ &nbsp;Tools
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
-  ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=azure-devops&logoColor=007ACC)&nbsp;
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)&nbsp;
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)&nbsp;
 
   ### - 🔧 &nbsp;IDE
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
