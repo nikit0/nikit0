@@ -8,7 +8,7 @@
 
   ### Frontend
   ![HTML](https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=react&logoColor=white)
   ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -28,7 +28,7 @@
   ![Firebase](https://img.shields.io/badge/Firebase-e66000?style=for-the-badge&logo=firebase&logoColor=white)
   
   ### Cloud
-  ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazon&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=dask&logoColor=white)
   ![Cloudflare](https://img.shields.io/badge/Cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-F8F8F8?style=for-the-badge&logo=render&logoColor=black)
   ![Vercel](https://img.shields.io/badge/Vercel-F8F8F8?style=for-the-badge&logo=vercel&logoColor=black)
