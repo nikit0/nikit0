@@ -64,7 +64,7 @@
   <!-- <img alt="nikit0 Streak" src="https://streak-stats.demolab.com/?user=nikit0&theme=dracula" /> -->
   <!-- <img width="49%" height="195px" alt="nikit0 Status" src="https://github-readme-stats.vercel.app/api?username=nikit0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> -->
   <!-- <img width="41%" height="215px" alt="nikit0 Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikit0&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> -->
-  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=nikit0&theme=dracula&row=2&no-bg=true&column=3&margin-w=12&margin-h=12" />
+  <!-- <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=nikit0&theme=dracula&row=2&no-bg=true&column=3&margin-w=12&margin-h=12" /> -->
 </div>
 
 <div align="center">
