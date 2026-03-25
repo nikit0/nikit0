@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=555555&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;I'm+Thiago+"nikit0"+Souza,+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
-</div>
-
 ---
 
 **Front-End**   
@@ -22,8 +20,6 @@
 
 ---
 
-<div align="center">
-  
 [![Linkedin](https://img.shields.io/badge/Linkedin-0d1117?style=for-the-badge&logo=slint&logoColor=0077B5)](https://www.linkedin.com/in/thicsouzaa/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://api.whatsapp.com/send?phone=5519999336235)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/nikit0fps/)
