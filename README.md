@@ -1,70 +1,32 @@
-<img width=100% alt="Capsule" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Be+Welcome+to+my+profile!;MY+NAME+is+Thiago+"nikit0"+Souza;I+live+in+Piracicaba,+SP;I'm+studying+systems+development+at+Anhembi+Morumbi;Exploring+new+technologies;and;Learning+more+about+3D,+Front/Back-end+development)](https://git.io/typing-svg)
-
-<hr/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d2d2d&height=120&section=header"/>
 
 <div align="center">
 
-  ### Frontend
-  ![HTML](https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=react&logoColor=white)
-  ![Next](https://img.shields.io/badge/Next-2D2D2D?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
-  
-  ### Backend
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-  ![C#](https://img.shields.io/badge/CSharp-8834e9?style=for-the-badge&logo=sharp&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white)
-  
-  ### Database
-  ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-103c5e?style=for-the-badge&logo=mariadb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-65ade4?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-  ### Cloud
-  ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=dask&logoColor=white)
-  ![Cloudflare](https://img.shields.io/badge/Cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-  ![Render](https://img.shields.io/badge/Render-F8F8F8?style=for-the-badge&logo=render&logoColor=black)
-  ![Vercel](https://img.shields.io/badge/Vercel-F8F8F8?style=for-the-badge&logo=vercel&logoColor=black)
-  
-  ### Tools
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-F8F8F8?style=for-the-badge&logo=github&logoColor=black)
-  ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-0079bf?style=for-the-badge&logo=trello&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-65ade4?style=for-the-badge&logo=bmcsoftware&logoColor=white)
-  ![VS Code Studio](https://img.shields.io/badge/VS_Code_Studio-8834e9?style=for-the-badge&logo=bmcsoftware&logoColor=white)
-  ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
-  
-  ### 3D & Design
-  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-  ![3DS Max](https://img.shields.io/badge/3DS_Max-00A3E1?style=for-the-badge&logo=autodesk&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-F8F8F8?style=for-the-badge&logo=unity&logoColor=black)
-  ![Zmodeler](https://img.shields.io/badge/Zmodeler-F40552?style=for-the-badge&logo=guangzhoumetro&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-e01010?style=for-the-badge&logo=figma&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/Photoshop-00a4e4?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
-  ![Premiere](https://img.shields.io/badge/Premiere-2600ff?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
-  ![After Effects](https://img.shields.io/badge/After_Effects-f700ff?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=555555&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;I'm+Thiago+"nikit0"+Souza,+a+Full-Stack+Developer)](https://git.io/typing-svg)
+
 </div>
+
+---
+
+[![Front-End](https://skillicons.dev/icons?i=html,css,js,react,next,vue&perline=6)](https://skillicons.dev)
+
+[![Back-End](https://skillicons.dev/icons?i=ts,nest,cs,py&perline=4)](https://skillicons.dev)
+
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb&perline=4)](https://skillicons.dev)
+
+[![Cloud & Tools](https://skillicons.dev/icons?i=aws,cloudflare,git,docker,blender&perline=5)](https://skillicons.dev)
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thicsouzaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=invision&logoColor=white" target="_blank"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5519999336235&text=Ola, vi seu perfil no GitHub!"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
-  <a href="https://www.instagram.com/nikit0fps/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
-
-<hr/>
+  
+[![Linkedin](https://img.shields.io/badge/Linkedin-0d1117?style=for-the-badge&logo=slint&logoColor=0077B5)](https://www.linkedin.com/in/thicsouzaa/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://api.whatsapp.com/send?phone=5519999336235)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/nikit0fps/)
 
 ![My GitHub Game](game.gif)
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img alt="Visitors" align="center" src="https://count.getloli.com/@nikit0?theme=sketch-1" /></p> 
-<br></div>
+</div>
 
-<img width=100% alt="Capsule" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<p align="center"><img src="https://count.getloli.com/@nikit0?theme=sketch-1" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d2d2d&height=120&section=footer" />
