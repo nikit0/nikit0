@@ -7,16 +7,16 @@
 ---
 
 **Front-End**   
-[![](https://skillicons.dev/icons?i=html,css,js,react,next,vue&perline=6)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,react,next)](https://skillicons.dev)
 
 **Back-End**   
-[![](https://skillicons.dev/icons?i=ts,nest,cs,py&perline=4)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ts,nest,prisma,redis)](https://skillicons.dev)
 
 **Database**   
-[![](https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb&perline=4)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb)](https://skillicons.dev)
 
 **Cloud & Tools**   
-[![](https://skillicons.dev/icons?i=aws,cloudflare,git,docker,blender&perline=5)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,cloudflare,git,docker,blender)](https://skillicons.dev)
 
 ---
 
