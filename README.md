@@ -8,13 +8,17 @@
 
 ---
 
-[![Front-End](https://skillicons.dev/icons?i=html,css,js,react,next,vue&perline=6)](https://skillicons.dev)
+**Front-End**   
+[![](https://skillicons.dev/icons?i=html,css,js,react,next,vue&perline=6)](https://skillicons.dev)
 
-[![Back-End](https://skillicons.dev/icons?i=ts,nest,cs,py&perline=4)](https://skillicons.dev)
+**Back-End**   
+[![](https://skillicons.dev/icons?i=ts,nest,cs,py&perline=4)](https://skillicons.dev)
 
-[![Database](https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb&perline=4)](https://skillicons.dev)
+**Database**   
+[![](https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb&perline=4)](https://skillicons.dev)
 
-[![Cloud & Tools](https://skillicons.dev/icons?i=aws,cloudflare,git,docker,blender&perline=5)](https://skillicons.dev)
+**Cloud & Tools**   
+[![](https://skillicons.dev/icons?i=aws,cloudflare,git,docker,blender&perline=5)](https://skillicons.dev)
 
 ---
 
