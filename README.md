@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=555555&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;I'm+Thiago+"nikit0"+Souza,+a+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=555555&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;I'm+Thiago+"nikit0"+Souza,+a+Fullstack+Developer)](https://git.io/typing-svg)
 
 ---
 
