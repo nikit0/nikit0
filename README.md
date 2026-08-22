@@ -20,9 +20,9 @@
 
 ---
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0d1117?style=for-the-badge&logo=slint&logoColor=0077B5)](https://www.linkedin.com/in/thicsouzaa/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0d1117?style=for-the-badge&logo=slint&logoColor=0077B5)](https://www.linkedin.com/in/thics/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://api.whatsapp.com/send?phone=5519999336235)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/nikit0fps/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/nkt0_xx/)
 
 ![My GitHub Game](game.gif)
 
